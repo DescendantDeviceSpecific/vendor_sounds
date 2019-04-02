@@ -24,13 +24,13 @@ PRODUCT_COPY_FILES += \
     vendor/sounds/alarms/MoonKalimba.ogg:system/media/audio/alarms/MoonKalimba.ogg \
     vendor/sounds/alarms/Queens.ogg:system/media/audio/alarms/Queens.ogg \
     vendor/sounds/alarms/RoyalMess.ogg:system/media/audio/alarms/RoyalMess.ogg \
-    vendor/sounds/notifications/Access.ogg:system/media/audio/alarms/Access.ogg \
+    vendor/sounds/notifications/Access.ogg:system/media/audio/notifications/Access.ogg \
     vendor/sounds/notifications/Bubble.ogg:system/media/audio/notifications/Bubble.ogg \
     vendor/sounds/notifications/Bumblebee.ogg:system/media/audio/notifications/Bumblebee.ogg \
     vendor/sounds/notifications/ChiNotif.ogg:system/media/audio/notifications/ChiNotif.ogg \
     vendor/sounds/notifications/GentlePanther.ogg:system/media/audio/notifications/GentlePanther.ogg \
     vendor/sounds/notifications/HeyThere.ogg:system/media/audio/notifications/HeyThere.ogg \
-    vendor/sounds/notifications/Incoming.ogg:system/media/audio/alarms/Incoming.ogg \
+    vendor/sounds/notifications/Incoming.ogg:system/media/audio/notifications/Incoming.ogg \
     vendor/sounds/notifications/RabbitHole.ogg:system/media/audio/notifications/RabbitHole.ogg \
     vendor/sounds/ringtones/Assopito.ogg:system/media/audio/ringtones/Assopito.ogg \
     vendor/sounds/ringtones/Bandicoot.ogg:system/media/audio/ringtones/Bandicoot.ogg \
